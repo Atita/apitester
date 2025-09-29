@@ -1,0 +1,14 @@
+c:\projects\apitester\bin\Debug\net9.0\apitester.exe
+c:\projects\apitester\bin\Debug\net9.0\apitester.deps.json
+c:\projects\apitester\bin\Debug\net9.0\apitester.runtimeconfig.json
+c:\projects\apitester\bin\Debug\net9.0\apitester.dll
+c:\projects\apitester\bin\Debug\net9.0\apitester.pdb
+c:\projects\apitester\obj\Debug\net9.0\apitester.GeneratedMSBuildEditorConfig.editorconfig
+c:\projects\apitester\obj\Debug\net9.0\apitester.AssemblyInfoInputs.cache
+c:\projects\apitester\obj\Debug\net9.0\apitester.AssemblyInfo.cs
+c:\projects\apitester\obj\Debug\net9.0\apitester.csproj.CoreCompileInputs.cache
+c:\projects\apitester\obj\Debug\net9.0\apitester.dll
+c:\projects\apitester\obj\Debug\net9.0\refint\apitester.dll
+c:\projects\apitester\obj\Debug\net9.0\apitester.pdb
+c:\projects\apitester\obj\Debug\net9.0\apitester.genruntimeconfig.cache
+c:\projects\apitester\obj\Debug\net9.0\ref\apitester.dll
